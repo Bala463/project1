@@ -7,7 +7,7 @@ public class EvenOdd {
         Scanner reader = new Scanner(System.in);
 
         System.out.print("Enter a number is: ");
-        System.out.print("Enter a name is a: ");
+        System.out.print("Enter a name and no is a: ");
 
 
         if(num % 2 == 0)
